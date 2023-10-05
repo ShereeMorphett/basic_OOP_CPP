@@ -1,0 +1,22 @@
+[
+{
+  "directory": "/home/sheree/Desktop/cpp-basics-2023/Module_4/T4_1_Mammals/build",
+  "command": "/usr/bin/clang++ -I/home/sheree/Desktop/cpp-basics-2023/Module_4/T4_1_Mammals/. -I/home/sheree/Desktop/cpp-basics-2023/Module_4/T4_1_Mammals/src -g -Wall -Wextra -pedantic -Wno-missing-field-initializers -std=gnu++17 -o CMakeFiles/mammals.dir/src/cat.cpp.o -c /home/sheree/Desktop/cpp-basics-2023/Module_4/T4_1_Mammals/src/cat.cpp",
+  "file": "/home/sheree/Desktop/cpp-basics-2023/Module_4/T4_1_Mammals/src/cat.cpp"
+},
+{
+  "directory": "/home/sheree/Desktop/cpp-basics-2023/Module_4/T4_1_Mammals/build",
+  "command": "/usr/bin/clang++ -I/home/sheree/Desktop/cpp-basics-2023/Module_4/T4_1_Mammals/. -I/home/sheree/Desktop/cpp-basics-2023/Module_4/T4_1_Mammals/src -g -Wall -Wextra -pedantic -Wno-missing-field-initializers -std=gnu++17 -o CMakeFiles/mammals.dir/src/dog.cpp.o -c /home/sheree/Desktop/cpp-basics-2023/Module_4/T4_1_Mammals/src/dog.cpp",
+  "file": "/home/sheree/Desktop/cpp-basics-2023/Module_4/T4_1_Mammals/src/dog.cpp"
+},
+{
+  "directory": "/home/sheree/Desktop/cpp-basics-2023/Module_4/T4_1_Mammals/build",
+  "command": "/usr/bin/clang++ -I/home/sheree/Desktop/cpp-basics-2023/Module_4/T4_1_Mammals/. -I/home/sheree/Desktop/cpp-basics-2023/Module_4/T4_1_Mammals/src -g -Wall -Wextra -pedantic -Wno-missing-field-initializers -std=gnu++17 -o CMakeFiles/mammals.dir/src/main.cpp.o -c /home/sheree/Desktop/cpp-basics-2023/Module_4/T4_1_Mammals/src/main.cpp",
+  "file": "/home/sheree/Desktop/cpp-basics-2023/Module_4/T4_1_Mammals/src/main.cpp"
+},
+{
+  "directory": "/home/sheree/Desktop/cpp-basics-2023/Module_4/T4_1_Mammals/build",
+  "command": "/usr/bin/clang++ -I/home/sheree/Desktop/cpp-basics-2023/Module_4/T4_1_Mammals/. -I/home/sheree/Desktop/cpp-basics-2023/Module_4/T4_1_Mammals/src -g -Wall -Wextra -pedantic -Wno-missing-field-initializers -std=gnu++17 -o CMakeFiles/mammals.dir/src/mammal.cpp.o -c /home/sheree/Desktop/cpp-basics-2023/Module_4/T4_1_Mammals/src/mammal.cpp",
+  "file": "/home/sheree/Desktop/cpp-basics-2023/Module_4/T4_1_Mammals/src/mammal.cpp"
+}
+]

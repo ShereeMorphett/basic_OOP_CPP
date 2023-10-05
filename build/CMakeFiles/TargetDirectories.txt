@@ -1,0 +1,3 @@
+/home/sheree/Desktop/cpp-basics-2023/build/CMakeFiles/rectangle.dir
+/home/sheree/Desktop/cpp-basics-2023/build/CMakeFiles/edit_cache.dir
+/home/sheree/Desktop/cpp-basics-2023/build/CMakeFiles/rebuild_cache.dir

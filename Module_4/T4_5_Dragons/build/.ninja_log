@@ -1,0 +1,7 @@
+# ninja log v5
+2	535	1696001714229965658	CMakeFiles/dragons.dir/src/dragon_cave.cpp.o	b85814ffa3ed1206
+1	714	1695999142508116301	CMakeFiles/dragons.dir/src/dragon.cpp.o	9dbc345401aeff92
+2	443	1695999356081008068	CMakeFiles/dragons.dir/src/magic_dragon.cpp.o	6dafe6683168526b
+2	451	1695999356089007853	CMakeFiles/dragons.dir/src/fantasy_dragon.cpp.o	4a47ce7990d5b116
+2	667	1696001714357963571	CMakeFiles/dragons.dir/src/main.cpp.o	7885c132505f3b93
+667	800	1696001714493961353	dragons	cd85ca36da20b7cf

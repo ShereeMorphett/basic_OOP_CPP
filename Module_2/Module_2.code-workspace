@@ -1,0 +1,102 @@
+{
+	"folders": [
+		{
+			"name": "T2.1 First touch",
+			"path": "T2_1_First_touch"
+		},
+		{
+			"name": "T2.2 Rectangle",
+			"path": "T2_2_Rectangle"
+		},
+		{
+			"name": "T2.3 Simple class",
+			"path": "T2_3_Simple_class"
+		},
+		{
+			"name": "T2.4 Dog class",
+			"path": "T2_4_Dog_class"
+		},
+		{
+			"name": "T2.5 Bank account",
+			"path": "T2_5_Bank_account"
+		},
+		{
+			"name": "T2.6 Vectors",
+			"path": "T2_6_Vectors"
+		},
+		{
+			"name": "T2.7 Vector of strings",
+			"path": "T2_7_Vector_of_strings"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"*.excalidraw": "json",
+			"*.excalidrawlib": "json",
+			"*.json": "c",
+			"": "",
+			"minishell.h": "c",
+			"ft_hash.h": "c",
+			"__bit_reference": "cpp",
+			"__config": "cpp",
+			"__debug": "cpp",
+			"__errc": "cpp",
+			"__functional_base": "cpp",
+			"__hash_table": "cpp",
+			"__locale": "cpp",
+			"__mutex_base": "cpp",
+			"__node_handle": "cpp",
+			"__nullptr": "cpp",
+			"__split_buffer": "cpp",
+			"__string": "cpp",
+			"__threading_support": "cpp",
+			"__tuple": "cpp",
+			"algorithm": "cpp",
+			"array": "cpp",
+			"atomic": "cpp",
+			"bit": "cpp",
+			"bitset": "cpp",
+			"cctype": "cpp",
+			"chrono": "cpp",
+			"cmath": "cpp",
+			"complex": "cpp",
+			"cstdarg": "cpp",
+			"cstddef": "cpp",
+			"cstdint": "cpp",
+			"cstdio": "cpp",
+			"cstdlib": "cpp",
+			"cstring": "cpp",
+			"ctime": "cpp",
+			"cwchar": "cpp",
+			"cwctype": "cpp",
+			"exception": "cpp",
+			"functional": "cpp",
+			"initializer_list": "cpp",
+			"ios": "cpp",
+			"iosfwd": "cpp",
+			"iostream": "cpp",
+			"istream": "cpp",
+			"iterator": "cpp",
+			"limits": "cpp",
+			"locale": "cpp",
+			"memory": "cpp",
+			"mutex": "cpp",
+			"new": "cpp",
+			"optional": "cpp",
+			"ostream": "cpp",
+			"ratio": "cpp",
+			"sstream": "cpp",
+			"stdexcept": "cpp",
+			"streambuf": "cpp",
+			"string": "cpp",
+			"string_view": "cpp",
+			"system_error": "cpp",
+			"tuple": "cpp",
+			"type_traits": "cpp",
+			"typeinfo": "cpp",
+			"unordered_map": "cpp",
+			"utility": "cpp",
+			"vector": "cpp"
+		}
+	}
+}

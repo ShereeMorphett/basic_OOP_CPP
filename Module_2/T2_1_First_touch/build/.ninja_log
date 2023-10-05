@@ -1,0 +1,4 @@
+# ninja log v5
+0	394	1694179775907581215	CMakeFiles/first_touch.dir/src/first.cpp.o	6e4893f4473d469c
+1	400	1694179775915581023	CMakeFiles/first_touch.dir/src/main.cpp.o	f8f217f4f99cf4da
+400	512	1694179776027578328	first_touch	22ecb5f7709968ca

@@ -1,0 +1,6 @@
+# ninja log v5
+1	382	1695574458985874845	CMakeFiles/mammals.dir/src/cat.cpp.o	895ab993703f8836
+2	374	1695574458977875084	CMakeFiles/mammals.dir/src/dog.cpp.o	465f4fbd4b349504
+3	814	1695574103080797276	CMakeFiles/mammals.dir/src/mammal.cpp.o	92c77df26c7d373c
+1	421	1695574356860941702	CMakeFiles/mammals.dir/src/main.cpp.o	1deb275bed8015a2
+382	493	1695574459097871499	mammals	75507135b4583624

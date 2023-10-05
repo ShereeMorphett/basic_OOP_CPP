@@ -1,0 +1,4 @@
+# ninja log v5
+0	576	1694855933596247764	CMakeFiles/vector_iterators.dir/src/main.cpp.o	dae96b8920fcf58f
+1	495	1694856329637263720	CMakeFiles/vector_iterators.dir/src/vector_it.cpp.o	c5357db5bc94b22c
+495	610	1694856329753261689	vector_iterators	c6daac7f35519e8a

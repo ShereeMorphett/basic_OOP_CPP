@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/sheree/Desktop/cpp-basics-2023/Module_3/T3_2_List/build",
+  "command": "/usr/bin/clang++ -I/home/sheree/Desktop/cpp-basics-2023/Module_3/T3_2_List/. -I/home/sheree/Desktop/cpp-basics-2023/Module_3/T3_2_List/src -g -Wall -Wextra -pedantic -Wno-missing-field-initializers -std=gnu++17 -o CMakeFiles/list.dir/src/list.cpp.o -c /home/sheree/Desktop/cpp-basics-2023/Module_3/T3_2_List/src/list.cpp",
+  "file": "/home/sheree/Desktop/cpp-basics-2023/Module_3/T3_2_List/src/list.cpp"
+},
+{
+  "directory": "/home/sheree/Desktop/cpp-basics-2023/Module_3/T3_2_List/build",
+  "command": "/usr/bin/clang++ -I/home/sheree/Desktop/cpp-basics-2023/Module_3/T3_2_List/. -I/home/sheree/Desktop/cpp-basics-2023/Module_3/T3_2_List/src -g -Wall -Wextra -pedantic -Wno-missing-field-initializers -std=gnu++17 -o CMakeFiles/list.dir/src/main.cpp.o -c /home/sheree/Desktop/cpp-basics-2023/Module_3/T3_2_List/src/main.cpp",
+  "file": "/home/sheree/Desktop/cpp-basics-2023/Module_3/T3_2_List/src/main.cpp"
+}
+]

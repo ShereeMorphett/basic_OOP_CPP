@@ -1,0 +1,72 @@
+[
+{
+  "directory": "/home/sheree/Desktop/cpp-basics-2023/Module_2/build",
+  "command": "/usr/bin/clang++ -I/home/sheree/Desktop/cpp-basics-2023/Module_2/T2_5_Bank_account/. -I/home/sheree/Desktop/cpp-basics-2023/Module_2/T2_5_Bank_account/src -g -Wall -Wextra -pedantic -Wno-missing-field-initializers -std=gnu++17 -o T2_5_Bank_account/CMakeFiles/bank_account.dir/src/bank_account.cpp.o -c /home/sheree/Desktop/cpp-basics-2023/Module_2/T2_5_Bank_account/src/bank_account.cpp",
+  "file": "/home/sheree/Desktop/cpp-basics-2023/Module_2/T2_5_Bank_account/src/bank_account.cpp"
+},
+{
+  "directory": "/home/sheree/Desktop/cpp-basics-2023/Module_2/build",
+  "command": "/usr/bin/clang++ -I/home/sheree/Desktop/cpp-basics-2023/Module_2/T2_5_Bank_account/. -I/home/sheree/Desktop/cpp-basics-2023/Module_2/T2_5_Bank_account/src -g -Wall -Wextra -pedantic -Wno-missing-field-initializers -std=gnu++17 -o T2_5_Bank_account/CMakeFiles/bank_account.dir/src/main.cpp.o -c /home/sheree/Desktop/cpp-basics-2023/Module_2/T2_5_Bank_account/src/main.cpp",
+  "file": "/home/sheree/Desktop/cpp-basics-2023/Module_2/T2_5_Bank_account/src/main.cpp"
+},
+{
+  "directory": "/home/sheree/Desktop/cpp-basics-2023/Module_2/build",
+  "command": "/usr/bin/clang++ -I/home/sheree/Desktop/cpp-basics-2023/Module_2/T2_7_Vector_of_strings/. -I/home/sheree/Desktop/cpp-basics-2023/Module_2/T2_7_Vector_of_strings/src -g -Wall -Wextra -pedantic -Wno-missing-field-initializers -std=gnu++17 -o T2_7_Vector_of_strings/CMakeFiles/vector_of_strings.dir/src/main.cpp.o -c /home/sheree/Desktop/cpp-basics-2023/Module_2/T2_7_Vector_of_strings/src/main.cpp",
+  "file": "/home/sheree/Desktop/cpp-basics-2023/Module_2/T2_7_Vector_of_strings/src/main.cpp"
+},
+{
+  "directory": "/home/sheree/Desktop/cpp-basics-2023/Module_2/build",
+  "command": "/usr/bin/clang++ -I/home/sheree/Desktop/cpp-basics-2023/Module_2/T2_7_Vector_of_strings/. -I/home/sheree/Desktop/cpp-basics-2023/Module_2/T2_7_Vector_of_strings/src -g -Wall -Wextra -pedantic -Wno-missing-field-initializers -std=gnu++17 -o T2_7_Vector_of_strings/CMakeFiles/vector_of_strings.dir/src/vector_strings.cpp.o -c /home/sheree/Desktop/cpp-basics-2023/Module_2/T2_7_Vector_of_strings/src/vector_strings.cpp",
+  "file": "/home/sheree/Desktop/cpp-basics-2023/Module_2/T2_7_Vector_of_strings/src/vector_strings.cpp"
+},
+{
+  "directory": "/home/sheree/Desktop/cpp-basics-2023/Module_2/build",
+  "command": "/usr/bin/clang++ -I/home/sheree/Desktop/cpp-basics-2023/Module_2/T2_1_First_touch/. -I/home/sheree/Desktop/cpp-basics-2023/Module_2/T2_1_First_touch/src -g -Wall -Wextra -pedantic -Wno-missing-field-initializers -std=gnu++17 -o T2_1_First_touch/CMakeFiles/first_touch.dir/src/first.cpp.o -c /home/sheree/Desktop/cpp-basics-2023/Module_2/T2_1_First_touch/src/first.cpp",
+  "file": "/home/sheree/Desktop/cpp-basics-2023/Module_2/T2_1_First_touch/src/first.cpp"
+},
+{
+  "directory": "/home/sheree/Desktop/cpp-basics-2023/Module_2/build",
+  "command": "/usr/bin/clang++ -I/home/sheree/Desktop/cpp-basics-2023/Module_2/T2_1_First_touch/. -I/home/sheree/Desktop/cpp-basics-2023/Module_2/T2_1_First_touch/src -g -Wall -Wextra -pedantic -Wno-missing-field-initializers -std=gnu++17 -o T2_1_First_touch/CMakeFiles/first_touch.dir/src/main.cpp.o -c /home/sheree/Desktop/cpp-basics-2023/Module_2/T2_1_First_touch/src/main.cpp",
+  "file": "/home/sheree/Desktop/cpp-basics-2023/Module_2/T2_1_First_touch/src/main.cpp"
+},
+{
+  "directory": "/home/sheree/Desktop/cpp-basics-2023/Module_2/build",
+  "command": "/usr/bin/clang++ -I/home/sheree/Desktop/cpp-basics-2023/Module_2/T2_4_Dog_class/. -I/home/sheree/Desktop/cpp-basics-2023/Module_2/T2_4_Dog_class/src -g -Wall -Wextra -pedantic -Wno-missing-field-initializers -std=gnu++17 -o T2_4_Dog_class/CMakeFiles/dog_class.dir/src/dog_class.cpp.o -c /home/sheree/Desktop/cpp-basics-2023/Module_2/T2_4_Dog_class/src/dog_class.cpp",
+  "file": "/home/sheree/Desktop/cpp-basics-2023/Module_2/T2_4_Dog_class/src/dog_class.cpp"
+},
+{
+  "directory": "/home/sheree/Desktop/cpp-basics-2023/Module_2/build",
+  "command": "/usr/bin/clang++ -I/home/sheree/Desktop/cpp-basics-2023/Module_2/T2_4_Dog_class/. -I/home/sheree/Desktop/cpp-basics-2023/Module_2/T2_4_Dog_class/src -g -Wall -Wextra -pedantic -Wno-missing-field-initializers -std=gnu++17 -o T2_4_Dog_class/CMakeFiles/dog_class.dir/src/main.cpp.o -c /home/sheree/Desktop/cpp-basics-2023/Module_2/T2_4_Dog_class/src/main.cpp",
+  "file": "/home/sheree/Desktop/cpp-basics-2023/Module_2/T2_4_Dog_class/src/main.cpp"
+},
+{
+  "directory": "/home/sheree/Desktop/cpp-basics-2023/Module_2/build",
+  "command": "/usr/bin/clang++ -I/home/sheree/Desktop/cpp-basics-2023/Module_2/T2_6_Vectors/. -I/home/sheree/Desktop/cpp-basics-2023/Module_2/T2_6_Vectors/src -g -Wall -Wextra -pedantic -Wno-missing-field-initializers -std=gnu++17 -o T2_6_Vectors/CMakeFiles/vectors.dir/src/main.cpp.o -c /home/sheree/Desktop/cpp-basics-2023/Module_2/T2_6_Vectors/src/main.cpp",
+  "file": "/home/sheree/Desktop/cpp-basics-2023/Module_2/T2_6_Vectors/src/main.cpp"
+},
+{
+  "directory": "/home/sheree/Desktop/cpp-basics-2023/Module_2/build",
+  "command": "/usr/bin/clang++ -I/home/sheree/Desktop/cpp-basics-2023/Module_2/T2_6_Vectors/. -I/home/sheree/Desktop/cpp-basics-2023/Module_2/T2_6_Vectors/src -g -Wall -Wextra -pedantic -Wno-missing-field-initializers -std=gnu++17 -o T2_6_Vectors/CMakeFiles/vectors.dir/src/vector.cpp.o -c /home/sheree/Desktop/cpp-basics-2023/Module_2/T2_6_Vectors/src/vector.cpp",
+  "file": "/home/sheree/Desktop/cpp-basics-2023/Module_2/T2_6_Vectors/src/vector.cpp"
+},
+{
+  "directory": "/home/sheree/Desktop/cpp-basics-2023/Module_2/build",
+  "command": "/usr/bin/clang++ -I/home/sheree/Desktop/cpp-basics-2023/Module_2/T2_3_Simple_class/. -I/home/sheree/Desktop/cpp-basics-2023/Module_2/T2_3_Simple_class/src -g -Wall -Wextra -pedantic -Wno-missing-field-initializers -std=gnu++17 -o T2_3_Simple_class/CMakeFiles/simple_class.dir/src/main.cpp.o -c /home/sheree/Desktop/cpp-basics-2023/Module_2/T2_3_Simple_class/src/main.cpp",
+  "file": "/home/sheree/Desktop/cpp-basics-2023/Module_2/T2_3_Simple_class/src/main.cpp"
+},
+{
+  "directory": "/home/sheree/Desktop/cpp-basics-2023/Module_2/build",
+  "command": "/usr/bin/clang++ -I/home/sheree/Desktop/cpp-basics-2023/Module_2/T2_3_Simple_class/. -I/home/sheree/Desktop/cpp-basics-2023/Module_2/T2_3_Simple_class/src -g -Wall -Wextra -pedantic -Wno-missing-field-initializers -std=gnu++17 -o T2_3_Simple_class/CMakeFiles/simple_class.dir/src/person.cpp.o -c /home/sheree/Desktop/cpp-basics-2023/Module_2/T2_3_Simple_class/src/person.cpp",
+  "file": "/home/sheree/Desktop/cpp-basics-2023/Module_2/T2_3_Simple_class/src/person.cpp"
+},
+{
+  "directory": "/home/sheree/Desktop/cpp-basics-2023/Module_2/build",
+  "command": "/usr/bin/clang++ -I/home/sheree/Desktop/cpp-basics-2023/Module_2/T2_2_Rectangle/. -I/home/sheree/Desktop/cpp-basics-2023/Module_2/T2_2_Rectangle/src -g -Wall -Wextra -pedantic -Wno-missing-field-initializers -std=gnu++17 -o T2_2_Rectangle/CMakeFiles/rectangle.dir/src/main.cpp.o -c /home/sheree/Desktop/cpp-basics-2023/Module_2/T2_2_Rectangle/src/main.cpp",
+  "file": "/home/sheree/Desktop/cpp-basics-2023/Module_2/T2_2_Rectangle/src/main.cpp"
+},
+{
+  "directory": "/home/sheree/Desktop/cpp-basics-2023/Module_2/build",
+  "command": "/usr/bin/clang++ -I/home/sheree/Desktop/cpp-basics-2023/Module_2/T2_2_Rectangle/. -I/home/sheree/Desktop/cpp-basics-2023/Module_2/T2_2_Rectangle/src -g -Wall -Wextra -pedantic -Wno-missing-field-initializers -std=gnu++17 -o T2_2_Rectangle/CMakeFiles/rectangle.dir/src/rectangle.cpp.o -c /home/sheree/Desktop/cpp-basics-2023/Module_2/T2_2_Rectangle/src/rectangle.cpp",
+  "file": "/home/sheree/Desktop/cpp-basics-2023/Module_2/T2_2_Rectangle/src/rectangle.cpp"
+}
+]

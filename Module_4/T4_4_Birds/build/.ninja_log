@@ -1,0 +1,4 @@
+# ninja log v5
+1	477	1695903193760029351	CMakeFiles/birds.dir/src/aviary.cpp.o	cac8733d75ac59c7
+2	469	1695903193756029605	CMakeFiles/birds.dir/src/main.cpp.o	c91c702daca360fe
+477	600	1695903193884021445	birds	2ab0cb9ebd923730

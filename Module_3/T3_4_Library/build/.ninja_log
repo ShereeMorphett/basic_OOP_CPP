@@ -1,0 +1,6 @@
+# ninja log v5
+1	379	1695323376556538830	CMakeFiles/library.dir/src/book.cpp.o	45af09aecc015d9c
+1	675	1695323156465875333	CMakeFiles/library.dir/src/customer.cpp.o	3d34c951f0185a21
+2	636	1695323156429876236	CMakeFiles/library.dir/src/library.cpp.o	bc621d30e628fa4e
+2	684	1695323156477875031	CMakeFiles/library.dir/src/main.cpp.o	77fe696704f2189a
+380	502	1695323376676536009	library	b0fdd95286336582
